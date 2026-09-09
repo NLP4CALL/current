@@ -1,7 +1,7 @@
 ---
 title: This year's edition of the Workshop
-permalink: /current_edition/
-alias: /current/current_edition/
+permalink: /current/
+alias: /current/current/
 ---
 
 {% capture current %}{{site.data.editions.first.year}}{% endcapture %}
